@@ -13,8 +13,8 @@ const Projects = () => {
           title="Portfolio"
           main="This is a Portfolio website created with vite and Tailwind CSS"
           img={portfolioImg}
-          linkCode={"https://realtime-chat-app-7v77.onrender.com"}
-          code={"https://realtime-chat-app-7v77.onrender.com"}
+          linkCode={"https://kirtiportfolioweb.netlify.app/"}
+          code={"https://github.com/kirti1131/portfoliocode"}
         />
         <ProjectCard
           title="Amazon Clone"
